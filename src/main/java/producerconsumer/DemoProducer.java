@@ -2,8 +2,6 @@ import java.util.*;
 import kafka.producer.*;
 import kafka.javaapi.producer.Producer;
 import kafka.utils.*;
-
-
 import org.apache.kafka.common.serialization.LongSerializer;
 import org.apache.kafka.common.serialization.StringSerializer;
 import java.util.Properties;
