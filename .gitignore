@@ -1,3 +1,7 @@
 .DS_store
 target
 project/target
+spark_application_for_simple_streaming/target
+spark_application_for_simple_streaming/project/target
+spark_application_for_simple_streaming/derby.log
+
